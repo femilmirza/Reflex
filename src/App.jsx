@@ -1,7 +1,16 @@
 import { useState } from 'react'
 import './App.css'
 
-const EMOJIS = ['🐶','🐱','🦊','🐻','🐼','🐸','🦁','🐵'];
+const EMOJIS = [
+  "🥥", // coconut
+  "🪔", // diya lamp
+  "🥻", // saree
+  "🏝️", // island
+  "🐘", // elephant
+  "🌴", // palm tree
+  "🥭", // mango
+  "🦚", // peacock
+];
 function shuffle(array) {
   const arr = array.slice();
   for (let i = arr.length - 1; i > 0; i--) {
