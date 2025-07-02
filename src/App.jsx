@@ -4,7 +4,7 @@ import './App.css'
 const EMOJIS = [
   "🥥", // coconut
   "🪔", // diya lamp
-  "🥻", // saree
+  "🪷", // lotus
   "🏝️", // island
   "🐘", // elephant
   "🌴", // palm tree
